@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FelipeErcilio
-- 👀 I’m interested in Python
+- 👀 I’m interested in HTML + CSS + JavaScript
 - 🌱 I’m currently learning ...
 - 📫 How to reach me  48 984478786
 
